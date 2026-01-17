@@ -1,1 +1,13 @@
-# crispy-octo-computing-machine
+{
+    "cSpell.words": [
+        "CODEOWNERS",
+        "codespace",
+        "Codespaces",
+        "containerapp",
+        "creds",
+        "devcontainer",
+        "devcontainers",
+        "prebuild"
+    ],
+    "github.copilot.nextEditSuggestions.enabled": true,    
+}
